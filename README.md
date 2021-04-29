@@ -1,7 +1,6 @@
-# acordando-porquinho-rodolfo-o-retorno
-Com a majestosa orientação de Rámon Pacheco @ramonmpacheco
-
 # ACORDANDO O PORQUINHO RODOLFO - O RETORNO
+
+Com a majestosa orientação de Rámon Pacheco @ramonmpacheco
 
 ## PREMISSAS
  - DEVIDO AO GRANDE SUCESSO DO APP "**ACORDANDO O RODOLFO**" E DE MAIS DE 1 BILHÃO DE DOWNLOADS, FOI SOLICITADO POR PARTE DO CEO DA EMPRESA QUE UMA NOVA VERSÃO DO APP SEJA CRIADA, AGORA COM MAIS INTERATIVIDADE.
