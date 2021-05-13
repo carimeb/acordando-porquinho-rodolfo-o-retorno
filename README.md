@@ -1,10 +1,9 @@
 # ACORDANDO O PORQUINHO RODOLFO - O RETORNO
 
-Com a majestosa orientação de Rámon Pacheco @ramonmpacheco
+Com a majestosa orientação de Rámon Pacheco @ramonmpacheco. Para mais detalhes, vejam o video dele no canal O8K Group: https://www.youtube.com/watch?v=WbrPs2pzKC8
 
 ## PREMISSAS
- - DEVIDO AO GRANDE SUCESSO DO APP "**ACORDANDO O RODOLFO**" E DE MAIS DE 1 BILHÃO DE DOWNLOADS, FOI SOLICITADO POR PARTE DO CEO DA EMPRESA QUE UMA NOVA VERSÃO DO APP SEJA CRIADA, AGORA COM MAIS INTERATIVIDADE.
-Referência: https://www.youtube.com/watch?v=dJBGaJ4R1cY
+ - DEVIDO AO GRANDE SUCESSO DO APP "**ACORDANDO O RODOLFO**" E DE MAIS DE 1 BILHÃO DE DOWNLOADS, FOI SOLICITADO POR PARTE DO CEO DA EMPRESA QUE UMA NOVA VERSÃO DO APP SEJA CRIADA, AGORA COM MAIS INTERATIVIDADE. CONHEÇA O RODOLFO: https://www.youtube.com/watch?v=dJBGaJ4R1cY
  
 ## SUA MISSÃO
    - CRIE UM PROJETO MAVEN
